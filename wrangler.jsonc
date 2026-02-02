@@ -13,8 +13,8 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "duan-db",
-			"database_id": "c17dadac-1e8f-4674-9ae6-74d98625f419"
+			"database_name": "cf-links",
+			"database_id": "a339c43e-c4c8-4861-922e-0915c349f701"
 		}
 	]
 	/**
