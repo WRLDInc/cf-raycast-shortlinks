@@ -64,7 +64,7 @@
 3. Copy the D1 Database ID.
    <img width="980" alt="image" src="https://github.com/user-attachments/assets/84656de1-20ca-4c11-85c9-dc676a5b7b08" />
 
-4. [Fork](https://github.com/insv23/duan/fork) the repository to your GitHub account.
+4. [Fork](https://github.com/wrldinc/cf-raycast-shortlnks/fork) the repository to your GitHub account.
    <img width="1225" alt="image" src="https://github.com/user-attachments/assets/78484a50-96ee-4733-994f-d49e9bb64149" />
 
 
@@ -103,7 +103,7 @@
 
 10. How to use it?
     
-    The [Duan extension](https://github.com/insv23/duan-raycast-extension) in [Raycast](https://www.raycast.com/) is currently the only UI available.
+    The [Duan extension](https://github.com/wrldinc/cf-raycast-shortlnks-raycast-extension) in [Raycast](https://www.raycast.com/) is currently the only UI available.
 
 		A web interface isn't available yet. 🙃
 
@@ -112,7 +112,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/insv23/duan.git
+   git clone https://github.com/wrldinc/cf-raycast-shortlnks.git
    cd duan
    ```
 
